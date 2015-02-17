@@ -9,3 +9,9 @@ int main()
   }
   return 0;
 }
+
+
+int funca(int b)
+{
+  //test
+}
